@@ -94,6 +94,11 @@ nav ul li a:hover::after {
 .about-col-2 {
   flex-basis: 60%;
 }
+.about-col-2 p{
+  font-size: 25px;
+  font-weight: 400;
+
+}
 .tabs {
   display: flex;
   margin-top: 30px;
