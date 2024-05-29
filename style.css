@@ -87,8 +87,8 @@ nav ul li a:hover::after {
   flex-wrap: wrap;
 }
 .my-image {
-  width: 500px;
-  height: 600px;
+  width: 600px;
+  height: 550px;
   border-radius: 20px;
 }
 .about-col-2 {
